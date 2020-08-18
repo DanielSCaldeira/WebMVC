@@ -48,3 +48,12 @@ CSHTML-> aceita tags Html e codigo C#
 
 @VIEWDATA["CHAVE"] ->	vai mostrar o valor na tela do html.
 @{}-> dentro da chave pode fazer operações logicas
+
+
+-------------------------------------------------------------------------------------------------------------
+CRIACAO DE CONTROLLER
+ADD -> CONTROLLER -> EMPTY
+
+CRIAR UMA PASTA COM O MESMO NOME DA CONTROLLER NA PASTA VIEW
+COLOCAR O MESMO NOME DO METODO DA CONTROLLER QUANDO CRIAR A VIEW
+ADD -> VIEW -> RAZOR VIEW -> LIST

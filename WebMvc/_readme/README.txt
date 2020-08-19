@@ -60,3 +60,13 @@ ADD -> VIEW -> RAZOR VIEW -> LIST
 -------------------------------------------------------------------------------------------------------------
 CRIACAO DE CRUD COMPLETO 
 CONTROLLER-> ADD-> NEW SCANFFOLDED ITEM-> MVC CONTROLLER WITH VIEW USING ENTITY FRAMEWORK
+CLICAR NO + PARA ADICIONAR O DB_CONTEXT DO ENTITY FRAMEWORK
+-------------------------------------------------------------------------------------------------------------
+Cria a migration
+Gerar o Midration -> abrir o package Manager Console -> execultar o comando "Add-Migration Initial"
+											   Ele vai gerar a pasta migration
+Atualiza a migration 
+xecultar o comando "Update-Database"
+
+
+ModelSnapshot - é o arquivo que gerencia como está a base de dados
